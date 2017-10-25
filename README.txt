@@ -1,0 +1,1 @@
+Este es el texto de README para poder utilizar la subida de un repositorio creado en local.
